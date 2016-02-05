@@ -8,9 +8,15 @@ h1 {
   font-size: 1.5rem;
 }
 
-nav ol {
-  color: #61363d;
+nav ol :link {
+  color: #8a244b;
   font-family: "PT Sans", sans-serif;
   font-weight: bold;
   list-style-type: none;
+  text-decoration: none;
+}
+
+nav ol :hover {
+  color: #61363d;
+  text-decoration: underline;
 }
