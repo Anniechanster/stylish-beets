@@ -1,5 +1,6 @@
 html {
   background-color: #c9b5ae;
+  font-family: "PT Serif", serif;
 }
 
 h1 {
@@ -32,4 +33,9 @@ figcaption {
   font-family: "PT Serif", serif;
   font-style: italic;
   text-align: center;
+}
+
+.days p + strong {
+  font-family: "PT Serif", serif;
+  font-style: none;
 }
