@@ -39,11 +39,10 @@ figcaption {
 .days {
   font-family: "PT Serif", serif;
   font-size: 1.5rem;
-  font-style: bold;
+  font-weight: bold;
 }
 
 .quote {
-  font-family: "PT Serif", serif;
   font-size: 2rem;
   font-style: italic;
 }
@@ -51,4 +50,14 @@ figcaption {
 cite {
   font-size: .75rem;
   font-style: italic;
+}
+
+h2 {
+  color: #61363d;
+  font-family: "PT Sans", sans-serif;
+  font-weight: bold;
+}
+
+ol li {
+  list-style-type: lower-greek
 }
