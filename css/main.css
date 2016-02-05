@@ -8,11 +8,14 @@ h1 {
   font-size: 1.5rem;
 }
 
+nav ol {
+  list-style-type: none;
+}
+
 nav ol :link {
   color: #8a244b;
   font-family: "PT Sans", sans-serif;
   font-weight: bold;
-  list-style-type: none;
   text-decoration: none;
 }
 
