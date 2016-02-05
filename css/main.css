@@ -22,6 +22,7 @@ nav ol :link {
   color: #8a244b;
   font-family: "PT Sans", sans-serif;
   font-weight: bold;
+  list-style-type: none;
   text-decoration: none;
 }
 
@@ -58,8 +59,13 @@ h2 {
   font-weight: bold;
 }
 
-ol li {
-  list-style-type: lower-greek
+.size {
+  font-style: italic;
+}
+
+main ol li {
+  list-style-type: lower-greek;
+  line-height: 1.5;
 }
 
 dl dt {
@@ -67,5 +73,9 @@ dl dt {
 }
 
 ul li {
-  list-style-type: circle
+  list-style-type: circle;
+}
+
+a:visited {
+  color: #8a244b;
 }
