@@ -1,3 +1,9 @@
 html {
   background-color: #c9b5ae;
 }
+
+h1 {
+  color: #61363d;
+  font-family: "PT Sans", sans-serif;
+  font-size: 1.5rem;
+}
