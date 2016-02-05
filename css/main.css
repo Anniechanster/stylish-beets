@@ -11,4 +11,6 @@ h1 {
 nav ol {
   color: #61363d;
   font-family: "PT Sans", sans-serif;
+  font-weight: bold;
+  list-style-type: none;
 }
