@@ -61,3 +61,7 @@ h2 {
 ol li {
   list-style-type: lower-greek
 }
+
+dl dt {
+  font-weight: bold;
+}
